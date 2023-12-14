@@ -1,0 +1,8 @@
+Top 10 Most Rented Films
+SELECT film.title, COUNT(rental.inventory_id)
+FROM rental
+JOIN inventory ON rental.inventory_id = inventory.inventory_id
+JOIN film ON inventory.film_id = film.film_id
+GROUP BY film.title
+ORDER BY COUNT(customer_id) DESC
+LIMIT(10)
