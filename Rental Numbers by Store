@@ -1,0 +1,6 @@
+Rental Numbers by Store
+SELECT store.store_id, COUNT(store.store_id)
+FROM rental
+JOIN staff ON rental.staff_id = staff.staff_id
+JOIN store ON staff.store_id = store.store_id
+GROUP BY store.store_id
