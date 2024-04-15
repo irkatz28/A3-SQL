@@ -1,4 +1,4 @@
-# ASQL-A3
+# SQL-A3
 Career Foundry Data Analytics Achievement 3. Analysis of Rockbuster Movie sales and inventory using SQL.
 
 Load   all   of   Rockbuster’s (online video streaming)  data   into   a   relational   database   management   system   (RDBMS). 
