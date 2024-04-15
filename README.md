@@ -1,8 +1,9 @@
-# A3-SQL
+# ASQL-A3
 Career Foundry Data Analytics Achievement 3. Analysis of Rockbuster Movie sales and inventory using SQL.
 
 Load   all   of   Rockbuster’s (online video streaming)  data   into   a   relational   database   management   system   (RDBMS). 
 Use   SQL  to   analyze   the   data   and   answer   any   ad-hoc   business   questions   that   other   departments   may   have.  
+Final Powerpoint presentation with key visualizations and results.
 
 ● Which   movies   contributed   the   most/least   to   revenue   gain?     
 ● What   was   the   average   rental   duration   for   all   videos?   
